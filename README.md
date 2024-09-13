@@ -1,3 +1,6 @@
+###environment config attention 
+blender_util.py  line 41. 
+##just use test.py visualize vox 
 # Visualizing 3D Data with Blender in Python
 
 This repository contains various Python scripts for visualizing 3D data,
